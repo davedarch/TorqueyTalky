@@ -1,0 +1,75 @@
+Mission:
+	Accessibility of acoustic instruments
+	Remote triggering of acoustic instruments
+
+Requirements:
+	Understand limitations and abilities of:
+		Servos
+		Steppers
+		Solenoids
+		Felxible drive shafts 
+		Hydraulics
+		Pneumatics
+
+Think:
+	Inputs and triggers
+		Sensors
+		Buttons
+		Pads
+		Foot switch
+		Levers
+	
+	Processing
+		Micro Controller
+		Code
+		Sequencing
+		
+	Outputs and transmission
+		Motors
+		Levers
+		Hydraulic systems
+		Flexible driveshaft
+		Cams
+		Gears
+		Flaps
+		Pivots
+	
+	Dave to sketch ideas out
+	Go through and find solutions
+	Find most plausible
+	Build it
+	
+	Start by thinking purely mechanical
+	Solve the problem of distant triggering
+	Reason: motors have too much noise and electromagnetic energy to be near sound source
+	Add the motors/solenoids as phase two
+	
+	DIY hydraulic system?
+		Footpump -> pick or stick
+	Air wheel footpump or breath powered
+	
+	Order of problems to solve
+		Picking a string
+		Strumming a guitar
+		Hitting a drum/cymbal/glock
+		Fretting a guitar
+		Bowing a string
+		
+	Resources
+		Stepper motors
+		Servos
+		Solenoids
+		
+		Bike brake cable
+		Hydraulics
+			Tubing
+			Calpol syringes
+		
+		Guitars
+		Drum sticks
+	
+	Possible issues
+		Speed
+		Power
+		Heat
+		Durability
